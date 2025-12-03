@@ -90,13 +90,47 @@ nav {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(30, 144, 255, 0.7), rgba(0, 105, 148, 0.8)),
-                url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400"><path fill="%2387CEEB" d="M0,100 Q300,150 600,100 T1200,100 L1200,400 L0,400 Z"/><path fill="%231E90FF" d="M0,150 Q300,200 600,150 T1200,150 L1200,400 L0,400 Z" opacity="0.5"/></svg>');
+    background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
+                url('../images/laptop-beach.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
     padding: 6rem 2rem;
     text-align: center;
+    background-attachment: fixed;
+}
+
+/* Page-specific hero backgrounds */
+.hero.about-hero {
+    background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
+                url('../images/beach-chair-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hero.services-hero {
+    background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
+                url('../images/beach-chair-2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hero.areas-hero {
+    background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
+                url('../images/sand-hand.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.hero.contact-hero {
+    background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
+                url('../images/phone-beach.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .hero h1 {
