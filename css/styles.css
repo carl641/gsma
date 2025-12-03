@@ -93,9 +93,9 @@ nav {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
                 url('../laptopheaderphoto.png');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     color: var(--white);
-    padding: 6rem 2rem;
+    padding: 12rem 2rem;
     text-align: center;
     background-attachment: fixed;
 }
@@ -105,7 +105,7 @@ nav {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
                 url('../smartphone1.png');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
 }
 
@@ -113,7 +113,7 @@ nav {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
                 url('../smartphone2.png');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
 }
 
@@ -121,7 +121,7 @@ nav {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
                 url('../socialmedia.png');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
 }
 
@@ -129,7 +129,7 @@ nav {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
                 url('../smartphone3.png');
     background-size: cover;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
 }
 
