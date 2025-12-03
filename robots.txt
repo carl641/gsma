@@ -1,0 +1,13 @@
+# Gulf Shores Marketing Agency - Robots.txt
+# Allow all search engines to crawl the site
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://gulfshoresmarketing.com/sitemap.xml
+
+# Disallow crawling of any future admin or private directories
+# Uncomment if needed:
+# Disallow: /admin/
+# Disallow: /private/
