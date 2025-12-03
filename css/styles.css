@@ -91,7 +91,7 @@ nav {
 /* Hero Section */
 .hero {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
-                url('../images/laptop-beach.jpg');
+                url('../laptop-beach.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
@@ -103,7 +103,7 @@ nav {
 /* Page-specific hero backgrounds */
 .hero.about-hero {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
-                url('../images/beach-chair-1.jpg');
+                url('../beach-chair-1.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -111,7 +111,7 @@ nav {
 
 .hero.services-hero {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
-                url('../images/beach-chair-2.jpg');
+                url('../beach-chair-2.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -119,7 +119,7 @@ nav {
 
 .hero.areas-hero {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
-                url('../images/sand-hand.jpg');
+                url('../sand-hand.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -127,7 +127,7 @@ nav {
 
 .hero.contact-hero {
     background: linear-gradient(rgba(30, 144, 255, 0.5), rgba(0, 105, 148, 0.6)),
-                url('../images/phone-beach.jpg');
+                url('../phone-beach.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
