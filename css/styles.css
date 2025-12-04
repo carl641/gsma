@@ -54,8 +54,14 @@ nav {
 }
 
 .logo::before {
-    content: '🌊';
-    font-size: 2rem;
+    content: '';
+    display: inline-block;
+    width: 2rem;
+    height: 2rem;
+    background-image: url('../logoGS.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .nav-links {
