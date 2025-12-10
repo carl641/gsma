@@ -5,7 +5,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://gulfshoresmarketing.com/sitemap.xml
+Sitemap: https://gulfshoresmarketingagency.com/sitemap.xml
 
 # Disallow crawling of any future admin or private directories
 # Uncomment if needed:
